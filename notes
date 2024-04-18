@@ -1,0 +1,5 @@
+adding scroll animation
+
+1. add css link in the head
+2. add js in head
+3. add AOS.init in before body closing tag
